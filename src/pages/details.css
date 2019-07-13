@@ -1,0 +1,62 @@
+.main{
+   height: auto;
+   width: 100%;
+   margin: 0 auto;
+}
+.heading{
+  height:74px;
+}
+.main__title{
+   padding: 20px;
+   text-align: center;
+   font-size: 30px;
+   color: white;
+   background-color:green;
+}
+.image{
+   width:100%;
+   margin-top:0;
+}
+.vegetable_soup{
+  padding-left: 30px;
+  font-size: 32px;
+  font-weight: bold;
+}
+.btn{
+  margin-right:30px;
+  float: right;
+  width: 174px;
+  height: 46px;
+  margin-top: -80px;
+  background-color: green;
+  color:white;
+  font-size:25px;
+}
+.item_nmbr{
+  margin: 0 50px 0 50px;
+}
+.category_rating{
+  margin-top:35px;
+}
+.category{
+  font-size: 25px;
+  padding-left:30px;
+}
+.rating{
+   float:right;
+   font-size: 25px;
+   padding-right: 30px;
+   
+}
+.details{
+  padding-left: 30px;
+}
+.detail{
+  font-weight: bold;
+    font-size: 24px;
+    margin: 34px 0px;
+
+}
+.about{
+   font-size: 25px;
+}
